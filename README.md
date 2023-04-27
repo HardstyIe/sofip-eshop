@@ -20,6 +20,7 @@ Site E-Commerce crée sous framework tailwind
 - Then run npm install -D tailwindcss
 - Then run npx tailwindcss init
 - Then put what is in the https://tailwindcss.com/docs/installation step 2 , into the tailwind.config.js
+- Run npm install flowbite
 ```
 
 ### Project Initialization
